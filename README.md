@@ -163,7 +163,7 @@ Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
 </div>
 
-<sub>Update the `AagnickK` parameter in each widget URL above to your actual GitHub handle for these to render correctly.</sub>
+<sub>Update the `username` parameter in each widget URL above to your actual GitHub handle for these to render correctly.</sub>
 
 ---
 
