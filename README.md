@@ -18,21 +18,21 @@
 
 <br>
 
-```ansi
-[32m┌──────────────────────────────────────────────────────────────────────┐[0m
-[32m│[0m [1;32mroot@aagnick[0m[36m:~$[0m whoami                                                [32m│[0m
-[32m│[0m                                                                        [32m│[0m
-[32m│[0m BSc IT (Hons) student specializing in Cybersecurity & Forensics.      [32m│[0m
-[32m│[0m Working across SOC operations, ethical hacking, network security,     [32m│[0m
-[32m│[0m web application security, digital forensics, OSINT, and vulnerability [32m│[0m
-[32m│[0m assessment — backed by hands-on development experience.               [32m│[0m
-[32m│[0m                                                                        [32m│[0m
-[32m│[0m [1;32mroot@aagnick[0m[36m:~$[0m cat mission.txt                                       [32m│[0m
-[32m│[0m [33mBreak systems to understand them. Document everything. Defend what[0m    [32m│[0m
-[32m│[0m [33myou build. Never stop learning.[0m                                       [32m│[0m
-[32m│[0m                                                                        [32m│[0m
-[32m│[0m [1;32mroot@aagnick[0m[36m:~$[0m _                                                     [32m│[0m
-[32m└──────────────────────────────────────────────────────────────────────┘[0m
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│ root@aagnick:~$ whoami                                                │
+│                                                                        │
+│ BSc IT (Hons) student specializing in Cybersecurity & Forensics.      │
+│ Working across SOC operations, ethical hacking, network security,     │
+│ web application security, digital forensics, OSINT, and vulnerability │
+│ assessment — backed by hands-on development experience.               │
+│                                                                        │
+│ root@aagnick:~$ cat mission.txt                                       │
+│ Break systems to understand them. Document everything. Defend what    │
+│ you build. Never stop learning.                                       │
+│                                                                        │
+│ root@aagnick:~$ _                                                     │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -56,12 +56,12 @@
 
 ## EDUCATION
 
-```ansi
-[36m┌─────────────────────────────────────────────────────────┐[0m
-[36m│[0m  BSc IT (Hons) — Cybersecurity & Forensics               [36m│[0m
-[36m│[0m  Semester 5 of 8  ·  Expected Graduation: 2028           [36m│[0m
-[36m│[0m  [1;32m████████████[90m░░░░░░░░[0m  [33m62%[0m                                [36m│[0m
-[36m└─────────────────────────────────────────────────────────┘[0m
+```
+┌─────────────────────────────────────────────────────────┐
+│  BSc IT (Hons) — Cybersecurity & Forensics               │
+│  Semester 5 of 8  ·  Expected Graduation: 2028           │
+│  ████████████░░░░░░░░  62%                                │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -106,27 +106,36 @@
 
 ## DOMAINS
 
-```ansi
-[32m[ SOC Operations ][0m     [36m[ Web Application Security ][0m   [33m[ Digital Forensics ][0m
-[32m[ Ethical Hacking ][0m    [36m[ Network Security ][0m           [33m[ OSINT ][0m
-[32m[ Vulnerability Assessment ][0m                          [33m[ Incident Response ][0m
-[32m[ Cryptography ][0m       [36m[ Malware Analysis ][0m           [33m[ Security Monitoring ][0m
+```
+[ SOC Operations ]     [ Web Application Security ]   [ Digital Forensics ]
+[ Ethical Hacking ]    [ Network Security ]           [ OSINT ]
+[ Vulnerability Assessment ]                          [ Incident Response ]
+[ Cryptography ]       [ Malware Analysis ]           [ Security Monitoring ]
 ```
 
 ---
 
 ## TOOL PROFICIENCY
 
-```ansi
-[1;32mExifTool[0m     [32m[██████████[90m[32m][0m [32m10/10[0m   [32mEXPERT[0m
-[1;32mNmap[0m         [32m[████████[90m░░[32m][0m  [32m8/10[0m   [32mADVANCED[0m
-[1;36mBurp Suite[0m   [36m[███████[90m░░░[36m][0m  [36m7/10[0m   [36mADVANCED[0m
-[1;36mSQLMap[0m       [36m[██████[90m░░░░[36m][0m  [36m6/10[0m   [36mINTERMEDIATE[0m
-[1;36mAutopsy[0m      [36m[██████[90m░░░░[36m][0m  [36m6/10[0m   [36mINTERMEDIATE[0m
-[33mWireshark[0m    [33m[█████[90m░░░░░[33m][0m  [33m5/10[0m   [33mINTERMEDIATE[0m
-[33mSplunk[0m       [33m[█████[90m░░░░░[33m][0m  [33m5/10[0m   [33mINTERMEDIATE[0m
-[90mMetasploit[0m   [90m[████[90m░░░░░░[90m][0m  [90m4/10[0m   [90mDEVELOPING[0m
-```
+<div align="left">
+
+![ExifTool](https://img.shields.io/badge/ExifTool-39FF14?style=for-the-badge) ![10](https://img.shields.io/badge/10%2F10-EXPERT-39FF14?style=for-the-badge&labelColor=0d1117)
+
+![Nmap](https://img.shields.io/badge/Nmap-39FF14?style=for-the-badge) ![8](https://img.shields.io/badge/8%2F10-ADVANCED-39FF14?style=for-the-badge&labelColor=0d1117)
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-00E5FF?style=for-the-badge) ![7](https://img.shields.io/badge/7%2F10-ADVANCED-00E5FF?style=for-the-badge&labelColor=0d1117)
+
+![SQLMap](https://img.shields.io/badge/SQLMap-00E5FF?style=for-the-badge) ![6](https://img.shields.io/badge/6%2F10-INTERMEDIATE-00E5FF?style=for-the-badge&labelColor=0d1117)
+
+![Autopsy](https://img.shields.io/badge/Autopsy-00E5FF?style=for-the-badge) ![6](https://img.shields.io/badge/6%2F10-INTERMEDIATE-00E5FF?style=for-the-badge&labelColor=0d1117)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-FF9000?style=for-the-badge) ![5](https://img.shields.io/badge/5%2F10-INTERMEDIATE-FF9000?style=for-the-badge&labelColor=0d1117)
+
+![Splunk](https://img.shields.io/badge/Splunk-FF9000?style=for-the-badge) ![5](https://img.shields.io/badge/5%2F10-INTERMEDIATE-FF9000?style=for-the-badge&labelColor=0d1117)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-6b7280?style=for-the-badge) ![4](https://img.shields.io/badge/4%2F10-DEVELOPING-6b7280?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
@@ -134,8 +143,8 @@ Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
 ## CERTIFICATIONS
 
-```ansi
-[32m[ CISCO NETWORKING ACADEMY ][0m  [36mIntroduction to Cybersecurity[0m  ·  [33m2026[0m
+```
+[ CISCO NETWORKING ACADEMY ]  Introduction to Cybersecurity  ·  2026
 ```
 
 ---
@@ -169,11 +178,11 @@ Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
 ## CURRENTLY
 
-```ansi
-[32m>[0m Refining ATSS UI and Tailwind theming
-[36m>[0m Conducting structured penetration testing on brumm.in
-[33m>[0m Documenting findings in CVSS / CWE report format
-[32m>[0m Progressing through Semester 5 coursework
+```
+> Refining ATSS UI and Tailwind theming
+> Conducting structured penetration testing on brumm.in
+> Documenting findings in CVSS / CWE report format
+> Progressing through Semester 5 coursework
 ```
 
 ---
@@ -194,11 +203,11 @@ Open to collaborations, internships, and security-focused discussions.
 
 <div align="center">
 
-```ansi
-[36m┌────────────────────────────────────────────────────────┐[0m
-[36m│[0m  [32m"Break systems to understand them.[0m                     [36m│[0m
-[36m│[0m   [32mDocument everything. Defend what you build."[0m          [36m│[0m
-[36m└────────────────────────────────────────────────────────┘[0m
+```
+┌────────────────────────────────────────────────────────┐
+│  "Break systems to understand them.                     │
+│   Document everything. Defend what you build."          │
+└────────────────────────────────────────────────────────┘
 ```
 
 ![Badge](https://img.shields.io/badge/BUILT%20WITH-DISCIPLINE%20%26%20CURIOSITY-39FF14?style=for-the-badge&labelColor=0d1117)
