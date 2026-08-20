@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=whoami+%3E+aagnick;status+%3D+actively_learning;target+%3D+SOC_Analyst;defense.mode(ON)&font=Fira+Code&center=true&width=600&height=45&color=39FF14&vCenter=true&size=20&background=0D111700"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aagnicknaha&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AagnickK&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-39FF14?style=for-the-badge&labelColor=0d1117)
 ![Focus](https://img.shields.io/badge/FOCUS-SOC%20%2F%20BLUE%20TEAM-00E5FF?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/BASE-INDIA-FF9000?style=for-the-badge&labelColor=0d1117)
@@ -18,21 +18,21 @@
 
 <br>
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│ root@aagnick:~$ whoami                                                │
-│                                                                        │
-│ BSc IT (Hons) student specializing in Cybersecurity & Forensics.      │
-│ Working across SOC operations, ethical hacking, network security,     │
-│ web application security, digital forensics, OSINT, and vulnerability │
-│ assessment — backed by hands-on development experience.               │
-│                                                                        │
-│ root@aagnick:~$ cat mission.txt                                       │
-│ Break systems to understand them. Document everything. Defend what    │
-│ you build. Never stop learning.                                       │
-│                                                                        │
-│ root@aagnick:~$ _                                                     │
-└──────────────────────────────────────────────────────────────────────┘
+```ansi
+[32m┌──────────────────────────────────────────────────────────────────────┐[0m
+[32m│[0m [1;32mroot@aagnick[0m[36m:~$[0m whoami                                                [32m│[0m
+[32m│[0m                                                                        [32m│[0m
+[32m│[0m BSc IT (Hons) student specializing in Cybersecurity & Forensics.      [32m│[0m
+[32m│[0m Working across SOC operations, ethical hacking, network security,     [32m│[0m
+[32m│[0m web application security, digital forensics, OSINT, and vulnerability [32m│[0m
+[32m│[0m assessment — backed by hands-on development experience.               [32m│[0m
+[32m│[0m                                                                        [32m│[0m
+[32m│[0m [1;32mroot@aagnick[0m[36m:~$[0m cat mission.txt                                       [32m│[0m
+[32m│[0m [33mBreak systems to understand them. Document everything. Defend what[0m    [32m│[0m
+[32m│[0m [33myou build. Never stop learning.[0m                                       [32m│[0m
+[32m│[0m                                                                        [32m│[0m
+[32m│[0m [1;32mroot@aagnick[0m[36m:~$[0m _                                                     [32m│[0m
+[32m└──────────────────────────────────────────────────────────────────────┘[0m
 ```
 
 ---
@@ -56,12 +56,12 @@
 
 ## EDUCATION
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  BSc IT (Hons) — Cybersecurity & Forensics               │
-│  Semester 5 of 8  ·  Expected Graduation: 2028           │
-│  ████████████░░░░░░░░  62%                                │
-└─────────────────────────────────────────────────────────┘
+```ansi
+[36m┌─────────────────────────────────────────────────────────┐[0m
+[36m│[0m  BSc IT (Hons) — Cybersecurity & Forensics               [36m│[0m
+[36m│[0m  Semester 5 of 8  ·  Expected Graduation: 2028           [36m│[0m
+[36m│[0m  [1;32m████████████[90m░░░░░░░░[0m  [33m62%[0m                                [36m│[0m
+[36m└─────────────────────────────────────────────────────────┘[0m
 ```
 
 ---
@@ -106,26 +106,26 @@
 
 ## DOMAINS
 
-```
-[ SOC Operations ]     [ Web Application Security ]   [ Digital Forensics ]
-[ Ethical Hacking ]    [ Network Security ]           [ OSINT ]
-[ Vulnerability Assessment ]                          [ Incident Response ]
-[ Cryptography ]       [ Malware Analysis ]           [ Security Monitoring ]
+```ansi
+[32m[ SOC Operations ][0m     [36m[ Web Application Security ][0m   [33m[ Digital Forensics ][0m
+[32m[ Ethical Hacking ][0m    [36m[ Network Security ][0m           [33m[ OSINT ][0m
+[32m[ Vulnerability Assessment ][0m                          [33m[ Incident Response ][0m
+[32m[ Cryptography ][0m       [36m[ Malware Analysis ][0m           [33m[ Security Monitoring ][0m
 ```
 
 ---
 
 ## TOOL PROFICIENCY
 
-```
-ExifTool     [██████████] 10/10   EXPERT
-Nmap         [████████░░]  8/10   ADVANCED
-Burp Suite   [███████░░░]  7/10   ADVANCED
-SQLMap       [██████░░░░]  6/10   INTERMEDIATE
-Autopsy      [██████░░░░]  6/10   INTERMEDIATE
-Wireshark    [█████░░░░░]  5/10   INTERMEDIATE
-Splunk       [█████░░░░░]  5/10   INTERMEDIATE
-Metasploit   [████░░░░░░]  4/10   DEVELOPING
+```ansi
+[1;32mExifTool[0m     [32m[██████████[90m[32m][0m [32m10/10[0m   [32mEXPERT[0m
+[1;32mNmap[0m         [32m[████████[90m░░[32m][0m  [32m8/10[0m   [32mADVANCED[0m
+[1;36mBurp Suite[0m   [36m[███████[90m░░░[36m][0m  [36m7/10[0m   [36mADVANCED[0m
+[1;36mSQLMap[0m       [36m[██████[90m░░░░[36m][0m  [36m6/10[0m   [36mINTERMEDIATE[0m
+[1;36mAutopsy[0m      [36m[██████[90m░░░░[36m][0m  [36m6/10[0m   [36mINTERMEDIATE[0m
+[33mWireshark[0m    [33m[█████[90m░░░░░[33m][0m  [33m5/10[0m   [33mINTERMEDIATE[0m
+[33mSplunk[0m       [33m[█████[90m░░░░░[33m][0m  [33m5/10[0m   [33mINTERMEDIATE[0m
+[90mMetasploit[0m   [90m[████[90m░░░░░░[90m][0m  [90m4/10[0m   [90mDEVELOPING[0m
 ```
 
 Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
@@ -134,8 +134,8 @@ Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
 ## CERTIFICATIONS
 
-```
-[ CISCO NETWORKING ACADEMY ]  Introduction to Cybersecurity  ·  2026
+```ansi
+[32m[ CISCO NETWORKING ACADEMY ][0m  [36mIntroduction to Cybersecurity[0m  ·  [33m2026[0m
 ```
 
 ---
@@ -144,22 +144,22 @@ Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
 <div align="center">
 
-![Aagnick's GitHub Stats](https://github-readme-stats.vercel.app/api?=aagnicknaha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00E5FF&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?=aagnicknaha&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)
+![Aagnick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AagnickK&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00E5FF&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AagnickK&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aagnicknaha&hide_border=true&background=0d1117&stroke=39FF14&ring=00E5FF&fire=FF9000&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?=aagnicknaha&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AagnickK&hide_border=true&background=0d1117&stroke=39FF14&ring=00E5FF&fire=FF9000&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280)
 
 </div>
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?=aagnicknaha&bg_color=0d1117&color=39FF14&line=00E5FF&point=FF9000&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AagnickK&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+</div>
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AagnickK&bg_color=0d1117&color=39FF14&line=00E5FF&point=FF9000&hide_border=true)
 
 </div>
 
@@ -169,11 +169,11 @@ Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
 ## CURRENTLY
 
-```
-> Refining ATSS UI and Tailwind theming
-> Conducting structured penetration testing on brumm.in
-> Documenting findings in CVSS / CWE report format
-> Progressing through Semester 5 coursework
+```ansi
+[32m>[0m Refining ATSS UI and Tailwind theming
+[36m>[0m Conducting structured penetration testing on brumm.in
+[33m>[0m Documenting findings in CVSS / CWE report format
+[32m>[0m Progressing through Semester 5 coursework
 ```
 
 ---
@@ -194,11 +194,11 @@ Open to collaborations, internships, and security-focused discussions.
 
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────┐
-│  "Break systems to understand them.                     │
-│   Document everything. Defend what you build."          │
-└────────────────────────────────────────────────────────┘
+```ansi
+[36m┌────────────────────────────────────────────────────────┐[0m
+[36m│[0m  [32m"Break systems to understand them.[0m                     [36m│[0m
+[36m│[0m   [32mDocument everything. Defend what you build."[0m          [36m│[0m
+[36m└────────────────────────────────────────────────────────┘[0m
 ```
 
 ![Badge](https://img.shields.io/badge/BUILT%20WITH-DISCIPLINE%20%26%20CURIOSITY-39FF14?style=for-the-badge&labelColor=0d1117)
