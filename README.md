@@ -144,8 +144,8 @@ Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
 <div align="center">
 
-![Aagnick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aagnicknaha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00E5FF&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aagnicknaha&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)
+![Aagnick's GitHub Stats](https://github-readme-stats.vercel.app/api?=aagnicknaha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00E5FF&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?=aagnicknaha&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aagnicknaha&hide_border=true&background=0d1117&stroke=39FF14&ring=00E5FF&fire=FF9000&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280)
 
@@ -153,17 +153,17 @@ Also in active use: John the Ripper, Gobuster, Netdiscover, FTK Imager
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=aagnicknaha&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?=aagnicknaha&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1)
 
 </div>
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aagnicknaha&bg_color=0d1117&color=39FF14&line=00E5FF&point=FF9000&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?=aagnicknaha&bg_color=0d1117&color=39FF14&line=00E5FF&point=FF9000&hide_border=true)
 
 </div>
 
-<sub>Update the `username` parameter in each widget URL above to your actual GitHub handle for these to render correctly.</sub>
+<sub>Update the `AagnickK` parameter in each widget URL above to your actual GitHub handle for these to render correctly.</sub>
 
 ---
 
